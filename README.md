@@ -1,5 +1,6 @@
 # jk_tcpdf
 If you need make markers with another color, you're on right page!
+* Coloring is at 20px both width and height of the QR.
 
 Just find in your tcpdf folder file tcpdf.php
 Then find line:
